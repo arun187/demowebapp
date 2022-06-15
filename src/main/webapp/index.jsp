@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome Arun and Rahul to the world of Devops!</h2>
       
-<center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
+<center><img src="https://devopedia.org/images/article/54/7602.1513404277.png" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
