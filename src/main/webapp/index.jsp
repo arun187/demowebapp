@@ -14,6 +14,7 @@
       <h2 class="text-center">Welcome Arun and Rahul to the world of Devops!</h2>
       
 <center><img src="https://devopedia.org/images/article/54/7602.1513404277.png" width=50% hight=50%>
+    <img src="https://www.jenkins.io/images/logos/brno/brno.png" width=30% hight=30%>
  </center> </div>
 </body>
 </html>
